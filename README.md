@@ -1,4 +1,4 @@
-## Hello , I am Chirag 👋 https://www.linkedin.com/in/chirag-pathak-b2520122a
+## Hello , I am Chirag 👋
 
 Here are some ideas to get you started:
 

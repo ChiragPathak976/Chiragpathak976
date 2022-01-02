@@ -1,4 +1,4 @@
-### Hello , I am Chirag 👋
+## Hello , I am Chirag 👋 
 
 Here are some ideas to get you started:
 
@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web develepment porject.
 - 🤔 I’m looking for help with web develepment.
 - 💬 Ask me about my project.
+- � Rech me out :[Twitter](https://twitter.com/Chiragpathak976) , [linkedin](https://www.linkedin.com/in/chirag-pathak-b2520122a)
